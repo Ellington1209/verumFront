@@ -3,8 +3,7 @@ import { Home } from "../pages";
 
 export default function AppRoutes() {
   return (
-    <Routes>
-     
+    <Routes>     
       <Route path="/" element={<Home />} />
     </Routes>
   );

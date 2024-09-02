@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#6B21A8', // Cor roxa da identidade visual
+        primary: '#4F227A', // Cor roxa da identidade visual
         secondary: '#4A1D73',
       },
     },

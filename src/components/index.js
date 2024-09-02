@@ -1,5 +1,7 @@
-import Header from "./header";
-
+import Header from "./landPage/header";
+import Cabecalho from "./landPage/cabecalho";
+import Fluit from "./landPage/Fluit";
+import QuemSomos from "./landPage/quemSomos";
 export{
-    Header
+    Header, Cabecalho, Fluit, QuemSomos
 }

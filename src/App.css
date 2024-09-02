@@ -10,9 +10,9 @@ html {
 }
 
 body {
-  font-family: 'Inter', sans-serif; /* Exemplo de fonte personalizada */
+  font-family: 'Lato', sans-serif; /* Exemplo de fonte personalizada */
   background-color: #f8f9fa; /* Cor de fundo padrão */
-  color: #212529; /* Cor do texto padrão */
+  color: #ffffff; /* Cor do texto padrão */
   margin: 0;
   padding: 0;
 }
@@ -22,5 +22,7 @@ body {
   .container {
       @apply mx-auto lg:max-w-7xl px-5 lg:px-0;
   }
-  
+  .text-verum-purple {
+    color:#4F227A; 
+  }
 }
